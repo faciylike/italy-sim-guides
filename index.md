@@ -63,3 +63,10 @@ layout: default
 
 　　最后，放轻松。在意大利，保持连接是为了更好地体验离线时的美好——无论是惊叹于文艺复兴的杰作，还是沉浸在一盘地道碳面的美味中。网络只是工具，别让它主宰你的旅程。
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Italy eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/italy-data-plans)
